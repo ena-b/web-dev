@@ -6,7 +6,6 @@
     
     text-size-adjust: 165;
     }
-    
     p {
     font-size: medium;
     font-family: cursive;
@@ -19,12 +18,16 @@
     }
     body {
       text-align: left;
+      background-color: rgb(240, 223, 203);
     }
     img {
-      border-radius: 50px;
+      border-radius: 100px;
+      width: 200px;
+      height: 150px;
     }
     a {
       text-decoration: none;
+      color: rgb(99, 33, 33);
     }
     a:hover {
       text-decoration: underline;
@@ -32,4 +35,7 @@
     table,th,td {
       border: 1px solid black;
       border-collapse: collapse;
+      background-color: rgb(206, 199, 188);
+      color: rgb(26, 22, 22);
     }
+    

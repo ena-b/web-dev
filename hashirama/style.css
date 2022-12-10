@@ -1,0 +1,35 @@
+
+ h1 { 
+    font-size: larger;
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+    
+    text-size-adjust: 165;
+    }
+    
+    p {
+    font-size: medium;
+    font-family: cursive;
+    color: rgb(36, 36, 36);
+    text-align: left;
+    }
+    pre {
+      font-size: larger;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    body {
+      text-align: left;
+    }
+    img {
+      border-radius: 50px;
+    }
+    a {
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    table,th,td {
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
